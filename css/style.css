@@ -1,0 +1,36 @@
+.logo{
+  width: 118px;
+}
+.Login{
+  background-color:#124F48; border-radius: 31.5px; gap: 10px; width: 127px; height: 57px; top: 40px; left: 1149px; padding: 18px, 39px, 18px, 39px; 
+  }
+  .h1{
+    background-color:#E9FBF9; 
+    ;
+  }
+   .it{
+     border: 1px solid #F2FAF9; width: 117px; height: 38px; top: 237; border-radius: 4px;
+     left: 182px; 
+}
+.Started{
+  background-color: #FF823B; border-radius: 31.5px; padding: 18px, 39px, 18px, 39px; left: 182; gap: 10px; width: 180px; height: 57px; top: 728px;
+}
+.bx{
+  width: 39px; left: 417px; top: 737px;  color:  #FF823B;
+  ;
+  }
+.img{
+  width: 900px; top: 218; left: 602px;
+}
+.Group8{ width: 314px;top: 658px; left: 753px; flex-direction: row-reverse;
+}
+.container{background-color: #E9FBF9; display: flex;  
+  border-radius: 10px; margin: 20px; padding: 10px; width: 255px; height: 103px;
+}
+.element{
+  background-color:#F1FAF9; padding: 50px;
+  margin:20px ; 
+}
+.services{
+ background-color: #F2FAF9; color: #FF823B;
+}
